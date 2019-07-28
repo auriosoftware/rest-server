@@ -1,2 +1,7 @@
-# rest-server
-Node server bootstrap with REST, HTTPS and typescript
+# REST server boilderplate
+
+Contains:
+ * typescript + io-ts
+ * basic service lifecycle management
+ * 
+

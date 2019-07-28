@@ -1,0 +1,8 @@
+--require ts-node/register
+--require chai-register
+--require ./test/pre-test.ts
+--ui bdd
+--inline-diffs
+--timeout 10000
+--exit
+./test/**/*.spec.ts
