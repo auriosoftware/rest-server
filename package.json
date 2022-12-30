@@ -39,7 +39,7 @@
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
     "chai-register": "0.0.1",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "nyc": "^14.1.1",
     "supertest": "^4.0.2",
     "ts-node-dev": "^1.0.0-pre.38",
